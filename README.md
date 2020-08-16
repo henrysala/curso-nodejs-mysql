@@ -1,4 +1,4 @@
-#CURSO NODEJS Y MYSQL
+# CURSO NODEJS Y MYSQL
 
 este es un proyecto realizado para el curso de NodeJS y Mysql del canal de youtuve Fazt
 
